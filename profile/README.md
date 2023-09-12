@@ -1,5 +1,19 @@
-## Hi there 👋
+## Guru Tributes
 
+This organization is my way of saying Thank you GURU for all the knowledge you though me.
+
+- Idea:
+  - As I was working on my thessis, I've had an idea to improve old gurutributes.com, suddenly site went down. I knew that this was a perfect chance for me.
+  
+- Goals:
+  - Don't let world forget legend such as G.U.R.U
+  - To revive GuruTributes comment section
+  - Keep G.U.R.U alive through comments
+
+- People:
+```md
+  // TODO: Add list of people participating on this project.
+```
 <!--
 
 **Here are some ideas to get you started:**
