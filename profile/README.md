@@ -11,10 +11,11 @@ This organization is my way of saying Thank you GURU for all the knowledge you t
   - Don't let world forget legend such as G.U.R.U
   - To revive GuruTributes comment section
   - Keep G.U.R.U alive through comments
-
+  - People should celebrate G.U.R.U's messages
+  
 - People:
 ```md
-  // TODO: Add list of people participating on this project.
+  
 ```
 <!--
 
