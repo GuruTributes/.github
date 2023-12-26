@@ -16,8 +16,10 @@ This organization is my way of saying Thank you GURU for all the knowledge you t
 - People:
 ```md
   - Stefan Bogdanović (Original Creator, Lead Developer)
+  - Jovana Ćulibrk (Designer)
   - Nemanja Mitić (Frontend Developer)
-  - Stefan Jovicević (ML)
+  - Stefan Jovicević (ML Developer)
+  - Jaksa Mališić (Frontend Developer)
 ```
 <!--
 
