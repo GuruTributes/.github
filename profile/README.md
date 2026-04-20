@@ -2,7 +2,7 @@
 
 <img src="https://magazine-resources.tidal.com/uploads/2022/05/gang_starr_2-1280x840.jpg" alt="Guru Tributes" />
 
-This organization is my way of saying Thank you GURU for all the knowledge you though me.
+This organization is my way of saying Thank you GURU for all the knowledge you taught me.
 
 - Idea:
   - As I was working on my thessis, I've had an idea to improve old gurutributes.com, suddenly site went down. I knew that this was a perfect chance for me.
