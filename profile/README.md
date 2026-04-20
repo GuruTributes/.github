@@ -4,15 +4,15 @@
 
 This organization is my way of saying Thank you GURU for all the knowledge you taught me.
 
-- Idea:
+**Idea**:
   - As I was working on my thessis, I've had an idea to improve old gurutributes.com, suddenly site went down. I knew that this was a perfect chance for me.
   
-- Goals:
-  - Don't let world forget legend such as G.U.R.U
-  - To revive GuruTributes comment section
-  - Keep G.U.R.U alive through comments
-  - People should celebrate G.U.R.U's messages
-  
+**Goals**:
+* To ensure the world never forgets a legend like Guru
+* To revive GuruTributes comment section
+* To keep Guru alive through community contributions
+* To create a space where people can celebrate his message and legacy
+
 - People:
 ```md
   - Stefan Bogdanović (Original Creator, Lead Developer)
